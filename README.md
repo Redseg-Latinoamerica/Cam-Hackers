@@ -1,8 +1,8 @@
-# Cam-Hackers
+# Cam-Hackers -- INSTALACION -- 
 
 Hack Cameras
 
-<h3> Mode Of Execution: </h3>
+<h3> Modo de Ejecucion : </h3>
 
 * apt-get install python3
 
